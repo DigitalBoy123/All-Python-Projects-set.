@@ -53,7 +53,7 @@ while True:
                 }).download([url])
                 print("<"*135)
                 print("Download successfully complete.")
-                print(">"*135)
+                print(">"*135) 
 
     
         elif choice == 3:
